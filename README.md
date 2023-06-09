@@ -4,8 +4,6 @@ Repo stars don't tell the whole story, so support the community with a helpful ‚
 
 Contribute your first [review](https://github.com/repo-reviews/repo-reviews.github.io/blob/main/create.md).
 
-Please ‚≠ê this project!
-
 #### Mission
 Increase productivity and success in the GitHub community with a transparent, trusted forum that publishes user experiences.
 
