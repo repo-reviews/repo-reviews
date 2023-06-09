@@ -1,11 +1,17 @@
 ### Hi there, welcome to Repo Reviews 👋
 
-Repo stars don't tell the whole story, so support the community with a helpful ❤️ [repo review](https://repo-reviews.github.io/) ❤️
+Repo stars don't tell the whole story, so support the community with a helpful ❤️ repo review ❤️
 
-**Any GitHub user** can contribute a [review](https://github.com/repo-reviews/repo-reviews.github.io/blob/main/create.md) and ⭐ this project!
+Contribute your first [review](https://github.com/repo-reviews/repo-reviews.github.io/blob/main/create.md).
 
-#### Goals
-- provide a **useful source of independent, current reviews** about tools available on GitHub
-- make this the repo with the **largest number of contributors on GitHub**!
+Please ⭐ this project!
+
+#### Mission
+Increase productivity and success in the GitHub community with a transparent, trusted forum that publishes user experiences.
+
+#### Why?
+GitHub repos don’t include stories of user experiences.
+
+Sharing these experiences can avoid rabbit-holes, save days of developer time, and greatly increase productivity across the community.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=repo-reviews)
