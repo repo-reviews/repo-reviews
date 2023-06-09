@@ -11,6 +11,6 @@ Repo stars don't tell the whole story, so support the community with a helpful â
 
 *GitHub repos donâ€™t include stories of user experiences.*
 
-*Sharing these experiences can avoid rabbit-holes and save developers time, greatly increasing productivity across the community.*
+*Sharing these stories can avoid rabbit-holes and save time, greatly increasing productivity across the community.*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=repo-reviews)
