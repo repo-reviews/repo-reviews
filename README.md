@@ -1,10 +1,8 @@
 ### Hi there, welcome to Repo Reviews 👋
 
-| [Project Source](https://github.com/repo-reviews/repo-reviews.github.io) | [Website](https://repo-reviews.github.io) |
+| [Project Source](https://github.com/repo-reviews/repo-reviews.github.io) | [Website](https://repo-reviews.github.io) | [Create a review](https://github.com/repo-reviews/repo-reviews.github.io/blob/main/create.md) |
 
 Support the community with a helpful ❤️ [repo review](https://github.com/repo-reviews/repo-reviews.github.io/blob/main/create.md) ❤️
-
-### Contribute your first [review](https://github.com/repo-reviews/repo-reviews.github.io/blob/main/create.md).
 
 ### Mission
 #### *Increase productivity and success in the GitHub community with a transparent, trusted forum that publishes user experiences.*
